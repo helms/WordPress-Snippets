@@ -1,6 +1,7 @@
 /* ------------------------------------------------------
 Simplified code to registering and displaying widget 
-areas 1-5 in a theme
+areas 1-5 in a theme.
+Replace 'GenStarter' with your themes text-domain
 --------------------------------------------------------- */
 
 // Register front-page widget areas 1-5
