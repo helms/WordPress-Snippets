@@ -1,6 +1,6 @@
 /* ------------------------------------------------------
 Simplified code to registering and displaying widget 
-areas 1-5 in a theme.
+areas 1-5 in a theme using a for loop.
 Replace 'GenStarter' with your themes text-domain
 --------------------------------------------------------- */
 
