@@ -1,5 +1,5 @@
 /* ------------------------------------------------------
-Simplified code to registering and display widget 
+Simplified code to registering and displaying widget 
 areas 1-5 in a theme
 --------------------------------------------------------- */
 
