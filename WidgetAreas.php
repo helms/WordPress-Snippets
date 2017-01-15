@@ -25,7 +25,7 @@ for ( $i = 1; $i <= 5; $i++ ) {
 
 	
 /* -------------------------------------------------------------------------
-The above code to display the widget areas is the same as writing:
+The above code to register the widget areas is the same as writing:
 -------------------------------------------------------------------------- */
 /*	
 // Front Page 1 Widget Area
